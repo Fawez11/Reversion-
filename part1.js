@@ -34,3 +34,5 @@
 // 5.1 Write a function multiply that takes two parameters a and b and returns their product.
 
 // 5.2 Create a function calculate that takes three parameters: a, b, and a callback function. Call the callback function with a and b as arguments and return the result.
+
+// scjsfcbjhsBVCjBCvhghgvhgvhgvh
